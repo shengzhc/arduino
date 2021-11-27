@@ -22,4 +22,5 @@ void loop() {
   } else {
     noTone(beeperPin);
   }
+  delay(5);
 }
